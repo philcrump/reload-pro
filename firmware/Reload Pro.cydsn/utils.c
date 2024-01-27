@@ -81,7 +81,7 @@ void load_splashscreen() {
     
     // Write the version to the lower left
     char buf[9];
-    sprintf(buf, "v%hd.%hd", get_major_version(), get_minor_version());
+    sprintf(buf, "v%hd.%hd-M0DNY", get_major_version(), get_minor_version());
     Display_DrawText(6, 0, buf, 0);
 
 	// Reset the heap to free the memory we used
