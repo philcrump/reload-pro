@@ -168,3 +168,16 @@ Parts: ST7528
 	SS_Reg [v1.70] to [v1.80]
 
 
+Last Modified Date & Time: 01/26/2024 23:36:04
+
+Reload Pro: TopDesign.cysch
+	IDAC_High [v1.0] to [v1.10]
+	IDAC_Low [v1.0] to [v1.10]
+
+
+Last Modified Date & Time: 01/26/2024 23:38:17
+
+Reload Pro: TopDesign.cysch
+	UART [v2.0] to [v3.0]
+
+
